@@ -23,3 +23,4 @@ The SystemC library supports waveform tracing. This requires adding statements t
     sc_start();  // run forever
   sc_close_vcd_trace_file(Tf);
   return 0;
+
